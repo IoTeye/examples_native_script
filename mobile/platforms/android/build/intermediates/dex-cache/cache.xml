@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ioteye/ioteye/mobile/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/ioteye/ioteye/mobile/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-transition-26.0.0-alpha1_9f10182291c09d11738274084442f36c0a7b7e2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ioteye/ioteye/mobile/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/ioteye/ioteye/mobile/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-recyclerview-v7-26.0.0-alpha1_4732415e14052e3a455fa22129157f42671824a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ioteye/ioteye/mobile/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/ioteye/ioteye/mobile/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-media-compat-26.0.0-alpha1_72a92fa30a62d921ed336a86b186301bdadccb71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ioteye/ioteye/mobile/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/ioteye/ioteye/mobile/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-fragment-26.0.0-alpha1_3d275df04a776ee114fe39d1b6165c949a22a5e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ioteye/ioteye/mobile/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/ioteye/ioteye/mobile/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-appcompat-v7-26.0.0-alpha1_621bdcb4e2b386e8a58f8e201134d5825b6a44fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ioteye/ioteye/mobile/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/ioteye/ioteye/mobile/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_a0f8669b8261843b950e03b2e3c39e5010e3ed55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ioteye/ioteye/mobile/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ada15dd7aad50793dcd67b281a8eb06e80007500">
+        <dex dex="/home/ioteye/ioteye/mobile/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-widgets-release_6f7394d4c92add5b13077fe06b3669ad3329c2dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ioteye/ioteye/mobile/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ioteye/ioteye/mobile/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-v4-26.0.0-alpha1_8ed4b8721b873ca569075a625dabf703657a84e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ioteye/ioteye/mobile/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/ioteye/ioteye/mobile/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-design-26.0.0-alpha1_e93253b3a4714468ddb36706bec8d5f79393d871.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ioteye/ioteye/mobile/platforms/android/build/intermediates/exploded-aar/nativescript-optimized/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="/home/ioteye/ioteye/mobile/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-nativescript-optimized_eaa6ff832de1d982e80c73e170a93464f0ffa17b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ioteye/ioteye/mobile/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/ioteye/ioteye/mobile/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-ui-26.0.0-alpha1_4df98da22de0f09f178a47dbc9ba658d60a31da1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ioteye/ioteye/mobile/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/ioteye/ioteye/mobile/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-utils-26.0.0-alpha1_29577cf43a94053087ebc0486e0f2b0f3ed99791.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ioteye/ioteye/mobile/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/ioteye/ioteye/mobile/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-compat-26.0.0-alpha1_0901024c15dd9eae1a316768e7b13d9559a68086.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ioteye/ioteye/mobile/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/ioteye/ioteye/mobile/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_94da859173c2b773bddf1c36784311eb10d36b66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ioteye/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/ioteye/ioteye/mobile/platforms/android/build/intermediates/pre-dexed/F0F1/debug/support-annotations-26.0.0-alpha1_6efeb8ec8a00e4e7bb69ee6a4d28a130cef1970d.jar" />
+    </item>
+
+</items>
