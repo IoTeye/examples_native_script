@@ -9,3 +9,14 @@ tns install
 tns run android or tns run ios
 
 Connect phone to PC for testing....
+
+#fix some compiliation problems:
+
+upgrage nativescript
+npm install -g nativescript
+
+upgrade app
+tns update
+
+upgrad TNS modules
+npm install tns-core-modules@latest --save
