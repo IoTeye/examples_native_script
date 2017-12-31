@@ -1,6 +1,6 @@
-.idea
-.vscode
 node_modules/
-mobile/platforms/
-mobile/hooks/
-build.xcconfig
+platforms/
+hooks/
+plugins/
+package-lock.json
+.DS_Store/

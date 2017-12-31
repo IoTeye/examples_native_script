@@ -1,0 +1,18 @@
+{
+  "name": "com.ioteyeinc.ble",
+  "version": "0.0.1",
+  "displayName": "BLE",
+  "cordova": {
+    "platforms": [
+      "android"
+    ],
+    "plugins": {
+      "cordova-plugin-ble-central": {}
+    }
+  },
+  "dependencies": {
+    "cordova-android": "^7.0.0",
+    "cordova-plugin-ble-central": "^1.1.4",
+    "cordova-plugin-compat": "^1.2.0"
+  }
+}

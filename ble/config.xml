@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.ioteyeinc.ble" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>BLE</name>
+    <description>
+        Cordova Bluetooth Plugin to read Battery Service
+    </description>
+    <author href="https://github.com/don">
+           Don Coleman
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="orientation" value="portrait" />
+    <plugin name="cordova-plugin-ble-central" spec="~1.1.4" />
+    <engine name="android" spec="^7.0.0" />
+</widget>

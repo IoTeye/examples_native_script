@@ -1,22 +1,19 @@
 # IoTeye_mobile
 
-Install Nativescript, https://docs.nativescript.org/start/quick-setup
-
-Follow instructions to install android and ios development kit
-
+#Install Nativescript, https://docs.nativescript.org/start/quick-setup
+#Follow instructions to install android and ios development kit
 tns install
-
 tns run android or tns run ios
-
-Connect phone to PC for testing....
-
+#Connect phone to PC for testing....
 #fix some compiliation problems:
-
-upgrage nativescript
+#upgrage nativescript
 npm install -g nativescript
-
-upgrade app
+#upgrade app
 tns update
-
-upgrad TNS modules
+#upgrad TNS modules
 npm install tns-core-modules@latest --save
+
+
+#cordova approach
+add BLE, geolocation, and weather for combination
+will add speech next
